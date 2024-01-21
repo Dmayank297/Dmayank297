@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmayank297
-- 👀 I’m interested in FullStack Developer
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Android Developer
+- 🌱 I’m currently learning Java, Kotlin and app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
