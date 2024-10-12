@@ -24,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmayank297&" alt="dmayank297" /></p>
 
+[![An image of @dmayank297's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dmayank297)](https://holopin.io/@dmayank297)
