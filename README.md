@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmayank297&show_icons=true&locale=en" alt="dmayank297" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmayank297&" alt="dmayank297" /></p>
+
+<p><img align = "center" src=https://www.holopin.io/hacktoberfest2024/userbadge/cm1nsw9v147960cm6myvvqhzz" /></p>
